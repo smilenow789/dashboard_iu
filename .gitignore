@@ -1,0 +1,6 @@
+.idea/
+
+*.pickle
+
+__pycache__/
+*.pyc
